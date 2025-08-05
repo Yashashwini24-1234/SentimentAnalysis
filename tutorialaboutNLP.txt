@@ -1,0 +1,17 @@
+Data Preprocessing:
+
+step 1:
+Tokenization:Breaking down text into smaller units(tokens) such as words,phrases, or subword units.
+
+step 2:
+Stemming/lemmetization:Reducing words to their base or root form() (e.g., "running," "ran," "runs" all become "run"). 
+Lemmatization is more sophisticated as it considers word context.
+
+step 3:
+Stopword Removal:Eliminating common words(e.g., "the","is","and")  that often carry little semantic meaning for the task at hand.
+
+Lowercasting:Converting all text to lowercase for uniformity
+
+Punctuation Removal:Removing Punctuation marks,
+
+Text normalization:Standardizing text format,including handling spellings  errors, expanding contractions, and handling special characters. 
